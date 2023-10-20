@@ -4,7 +4,7 @@ This repository will allow you to build your first professional Java project, in
 ## Building the Project
 After you have cloned the repository, you should be able to navigate to the directory containing the `build.gradle` file. There, you can build the project by running the command:
 
-`gradle build`
+`gradle build`d
 
 You can then run the acceptance tests:
 
