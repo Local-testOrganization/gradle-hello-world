@@ -4,7 +4,7 @@ package edu.jsu.mcis;
 public class HelloWorld {
     
     public String showIt() {
-        return "hello world";
+        return "hello sonar";
     }
     
     public String reverseIt() {
